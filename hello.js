@@ -1,3 +1,3 @@
 console.log('Hello,Git!');
-console.log('Hello,GitHub!');
-console.log('This is Aritra Hazra');
+console.log('Hello,Github!');
+console.log('Trying Out Revert!');
